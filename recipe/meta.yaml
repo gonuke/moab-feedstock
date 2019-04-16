@@ -27,6 +27,7 @@ requirements:
     - libcblas
     - python <=3.6
     - hdf5
+    - metis
     - numpy
     - setuptools
     - cython
